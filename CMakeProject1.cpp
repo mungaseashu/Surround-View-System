@@ -1,7 +1,4 @@
-﻿// Bosch AutoVision X Hackathon Solution for Image Stitching Problem in C++.
-// Group Members (Team Spirit): 
-// Pradip Warkhade, TY-IT (SCOE, Kopargaon)
-// Kaveri Mungase, TY-IT (SCOE, Kopargaon)
+
 
 #include <iostream>  // For input/output operations
 #include <opencv2/opencv.hpp>  // For OpenCV functionalities
